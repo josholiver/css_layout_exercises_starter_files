@@ -1,0 +1,50 @@
+body{
+    margin-right:auto;
+    margin-left:auto;
+    max-width: 800px;
+    padding: 30px;
+    font-size: 0;
+}
+
+.row1{
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    font-size: 0;
+    
+}
+
+.row1-one{
+    background-color: green;
+    border: 1px solid black;
+}
+
+.row1-two{
+    background-color: blue;
+    border: 1px solid black;
+}
+
+
+.row2{
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    font-size: 0;
+}
+
+.row2-three{
+    background-color: grey;
+    border: 1px solid black;
+}
+
+
+.row2-four{
+    background-color: black;
+    border: 1px solid black;
+}
+
+
+.row2-five{
+    background-color: orange;
+    border: 1px solid black;
+}
